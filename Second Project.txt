@@ -1,0 +1,13 @@
+Class Test{
+
+public static void main(String []args){
+
+public int mul(int x , int y){
+
+s = x* y;
+System.out.println(s);
+
+}
+
+}
+}
